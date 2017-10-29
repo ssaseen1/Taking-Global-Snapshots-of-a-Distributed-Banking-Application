@@ -1,11 +1,4 @@
-Readme:
--------
-
-Shali Saseendran
-ssaseen1@binghamton.edu
-------------------------
-
-Language used for implementation: Java
+Java Multithreaded
 
 Implemetation:
 
